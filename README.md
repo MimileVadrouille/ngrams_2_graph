@@ -25,7 +25,7 @@ That's all folks !
 
 
 .   
-3) **Dependancies: **   
+3) **Dependancies:**   
 
 Debian 13 (Trixie) :   
 - python3-matplotlib   
@@ -37,7 +37,7 @@ Windows:
 
 
 .   
-4) **Use: **   
+4) **Use:**   
 
 ```
 > ngram_2_graph -h 
